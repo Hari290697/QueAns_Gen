@@ -1,1 +1,2 @@
-# QueAns_Gen
+# Dquery-Bot
+Document Based Question &amp; Answer system
